@@ -25,7 +25,7 @@ apply plugin: 'com.android.library'
 apply plugin: 'kotlin-android'
 
 android {
-    "com.example.m7_livelyness_detection"
+    namespace "com.example.m7_livelyness_detection"
     compileSdkVersion 31
 
     compileOptions {
